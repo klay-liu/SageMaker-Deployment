@@ -1,6 +1,6 @@
 # SageMaker-Deployment
 
-Deploy your own inference code with Amazon SageMaker XGBoost Algorithm.
+Deploy your own inference code with Amazon SageMaker XGBoost Algorithm. - From AWS SageMaker Examples.
 
 ---
 
